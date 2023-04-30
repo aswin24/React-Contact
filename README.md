@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Before running the scripts run:
+### `npm install`
 
 In the project directory, you can run:
 
@@ -10,6 +12,12 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+About this project 
+### `Click On Add Contact` - To add data to the form's and click on ### `Admin Panel` to see the data. 
+To Edit the Project Click on ### `Edit` that shows on the form and edit the content.
+
+### `Map View` - About Map View I have added the respective code to run the map but for some issues I cant get the API for Google Map API but code works once the API has been provided.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -32,6 +40,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
