@@ -14,8 +14,11 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 About this project 
-### `Click On Add Contact` - To add data to the form's and click on ### `Admin Panel` to see the data. 
-To Edit the Project Click on ### `Edit` that shows on the form and edit the content.
+### `Click On Add Contact` :- 
+To add data to the form's and click on ### `Admin Panel` to see the data. 
+To Edit the Project Click on 
+### `Edit` :
+that shows on the form and edit the content.
 
 ### `Map View` - About Map View I have added the respective code to run the map but for some issues I cant get the API for Google Map API but code works once the API has been provided.
 
