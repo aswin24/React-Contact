@@ -20,7 +20,8 @@ To Edit the Project Click on
 ### `Edit` :
 that shows on the form and edit the content.
 
-### `Map View` - About Map View I have added the respective code to run the map but for some issues I cant get the API for Google Map API but code works once the API has been provided.
+### `Map View` :- 
+About Map View I have added the respective code to run the map but for some issues I cant get the API for Google Map API but code works once the API has been provided.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
