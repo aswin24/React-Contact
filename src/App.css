@@ -1,0 +1,13 @@
+label{
+  display: block !important;
+}
+input {
+  width: 75%;
+  border: 1px solid #6b738a;
+}
+.new-col{
+  margin-bottom: 20px;
+}
+span{
+  color: red;
+}
